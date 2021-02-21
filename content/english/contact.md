@@ -1,5 +1,5 @@
 ---
-title : "SAY HELLO!"
+title : "NEED A SERVICE? SAY HELLO!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
 form_action: "#" # works with https://formspree
 name: "Name"
@@ -9,7 +9,7 @@ submit: "Submit"
 
 
 # custom style
-custom_class: "" 
-custom_attributes: "" 
+custom_class: ""
+custom_attributes: ""
 custom_css: ""
 ---

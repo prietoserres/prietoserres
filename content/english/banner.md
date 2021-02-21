@@ -1,31 +1,29 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "Ana Prieto Serres"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "Ana"
+last_name : "Prieto Serres"
+bg_image : "images/backgrounds/full-nav-bg1.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Pintura artística"
+- "Diseño de espacios"
+- "Diseño gráfico"
 
 # slider background image loop
 slider_images:
 - "images/slider/slider-1.jpg"
-- "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
 
 # button
 button:
   enable : true
-  label : "HIRE ME"
+  label : "Di hola!"
   link : "#contact"
 
 
 # custom style
-custom_class: "" 
-custom_attributes: "" 
+custom_class: ""
+custom_attributes: ""
 custom_css: ""
 
 ---
