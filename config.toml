@@ -93,7 +93,7 @@ link = "https://github.com/prietoserres"
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content"
 weight = 1
 home = "Home"
 # copyright
