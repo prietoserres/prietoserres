@@ -1,29 +1,20 @@
 ---
-title : "Ana Prieto Serres"
-# full screen navigation
-first_name : "Ana"
-last_name : "Prieto Serres"
-bg_image : "images/backgrounds/full-nav-bg1.jpg"
-# animated text loop
+title: Ana Prieto Serres
+first_name: Ana
+last_name: Prieto Serres
+bg_image: images/backgrounds/full-nav-bg1.jpg
 occupations:
-- "Pintura artística"
-- "Diseño de espacios"
-- "Diseño gráfico"
-
-# slider background image loop
+- Pintura artística
+- Diseño de espacios
+- Diseño gráfico
 slider_images:
-- "images/slider/slider-1.jpg"
-
-# button
+- images/slider/slider-1.jpg
 button:
-  enable : true
-  label : "Di hola!"
-  link : "#contact"
-
-
-# custom style
-custom_class: ""
-custom_attributes: ""
-custom_css: ""
+  enable: true
+  label: Di hola
+  link: "#contact"
+custom_class: ''
+custom_attributes: ''
+custom_css: ''
 
 ---
